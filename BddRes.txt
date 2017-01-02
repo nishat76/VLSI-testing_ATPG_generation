@@ -1,0 +1,44 @@
+
+Stnode:1 Stuckat:0 Detected at PO: 22 has 6 Ms
+Stnode:1 Stuckat:0 gives PO-Xr:22 has zeros:2 ones:2 twos:1.
+Stnode:1 Stuckat:0 Detected by 6 Ms
+Stnode:2 Stuckat:0 Detected at PO: 22 has 10 Ms
+Stnode:2 Stuckat:0 gives PO-Xr:22 has zeros:2 ones:1 twos:2.
+Stnode:2 Stuckat:0 Detected at PO: 23 has 6 Ms
+Stnode:2 Stuckat:0 gives PO-Xr:23 has zeros:2 ones:1 twos:2.
+Stnode:2 Stuckat:0 Detected by 11 Ms
+Stnode:3 Stuckat:0 Detected at PO: 22 has 6 Ms
+Stnode:3 Stuckat:0 gives PO-Xr:22 has zeros:2 ones:2 twos:1.
+Stnode:3 Stuckat:0 Detected at PO: 23 has 6 Ms
+Stnode:3 Stuckat:0 gives PO-Xr:23 has zeros:1 ones:3 twos:1.
+Stnode:3 Stuckat:0 Detected by 9 Ms
+Stnode:6 Stuckat:0 Detected at PO: 22 has 2 Ms
+Stnode:6 Stuckat:0 gives PO-Xr:22 has zeros:1 ones:3 twos:1.
+Stnode:6 Stuckat:0 Detected at PO: 23 has 6 Ms
+Stnode:6 Stuckat:0 gives PO-Xr:23 has zeros:1 ones:3 twos:1.
+Stnode:6 Stuckat:0 Detected by 6 Ms
+Stnode:7 Stuckat:0 Detected at PO: 23 has 6 Ms
+Stnode:7 Stuckat:0 gives PO-Xr:23 has zeros:2 ones:1 twos:2.
+Stnode:7 Stuckat:0 Detected by 6 Ms
+Stnode:10 Stuckat:0 Detected at PO: 22 has 14 Ms
+Stnode:10 Stuckat:0 gives PO-Xr:22 has zeros:3 ones:0 twos:2.
+Stnode:10 Stuckat:0 Detected by 14 Ms
+Stnode:11 Stuckat:0 Detected at PO: 22 has 10 Ms
+Stnode:11 Stuckat:0 gives PO-Xr:22 has zeros:2 ones:1 twos:2.
+Stnode:11 Stuckat:0 Detected at PO: 23 has 18 Ms
+Stnode:11 Stuckat:0 gives PO-Xr:23 has zeros:2 ones:1 twos:2.
+Stnode:11 Stuckat:0 Detected by 18 Ms
+Stnode:16 Stuckat:0 Detected at PO: 22 has 14 Ms
+Stnode:16 Stuckat:0 gives PO-Xr:22 has zeros:3 ones:0 twos:2.
+Stnode:16 Stuckat:0 Detected at PO: 23 has 14 Ms
+Stnode:16 Stuckat:0 gives PO-Xr:23 has zeros:3 ones:0 twos:2.
+Stnode:16 Stuckat:0 Detected by 19 Ms
+Stnode:19 Stuckat:0 Detected at PO: 23 has 14 Ms
+Stnode:19 Stuckat:0 gives PO-Xr:23 has zeros:3 ones:0 twos:2.
+Stnode:19 Stuckat:0 Detected by 14 Ms
+Stnode:22 Stuckat:0 Detected at PO: 22 has 18 Ms
+Stnode:22 Stuckat:0 gives PO-Xr:22 has zeros:2 ones:1 twos:2.
+Stnode:22 Stuckat:0 Detected by 18 Ms
+Stnode:23 Stuckat:0 Detected at PO: 23 has 18 Ms
+Stnode:23 Stuckat:0 gives PO-Xr:23 has zeros:2 ones:1 twos:2.
+Stnode:23 Stuckat:0 Detected by 18 Ms
